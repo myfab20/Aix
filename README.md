@@ -132,8 +132,8 @@ AIX is designed to provide a flexible foundation for developers.
 |---|---|
 | **NPM Package** | https://www.npmjs.com/package/@cloud-nine-ai/aix |
 | **GitHub Repository** | https://github.com/myfab20/Aix |
-| **Official Website** | https://cloud.cloud-nine-ai.workers.dev |
-| **Landing Page** | https://aix.cloud-nine-ai.workers.dev |
+| **Official Website** | cloud.cloud-deo.workers.dev| 
+| **Landing Page** | aix.cloud-deo.workers.dev|
 
 ---
 
